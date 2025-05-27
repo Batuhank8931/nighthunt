@@ -1,0 +1,32 @@
+.modal {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+
+  .modal-content {
+    animation: modalFadeIn 0.5s ease-in-out;
+  }
+
+  .modal-header {
+    padding: 20px 30px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .modal-body {
+    font-size: 1.2rem;
+    padding: 20px 30px;
+  }
+
+  .modal-footer {
+    padding: 15px 30px;
+  }
+
+  @keyframes modalFadeIn {
+    0% {
+      opacity: 0;
+      transform: scale(0.8);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }

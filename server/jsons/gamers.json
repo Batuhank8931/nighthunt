@@ -1,0 +1,20 @@
+[
+  {
+    "gamername": "deneme",
+    "roomid": "1743424835912",
+    "uniqgamerId": "a1a24185-7a06-471a-ab25-ad520dcdc44a",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IjEiLCJpYXQiOjE3NDM0MjQxMTEsImV4cCI6MTc0MzQyNzcxMX0.PJ2gAzRznxfy6OF49aeNH9HQIN3RmIYeMsO4hPOl6II",
+    "profileImage": "70e67689-6097-4759-8d28-268ea9a11d92.jpg",
+    "imageUrl": "http://192.168.1.5:3050/uploads/70e67689-6097-4759-8d28-268ea9a11d92.jpg",
+    "createdAt": "2025-03-31T12:40:42.205Z"
+  },
+  {
+    "gamername": "Batuhan",
+    "roomid": "1743424835912",
+    "uniqgamerId": "dd3e8d20-5cb4-46b0-a030-f024508920b9",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJnYW1lcm5hbWUiOiJCYXR1aGFuIiwiaWF0IjoxNzQzNDI0ODYwLCJleHAiOjE3NDM0Mjg0NjB9.dEBPifb8U5JFGRf7chA3CDtLCqxOzUZWcXQZfRb5NQc",
+    "profileImage": "516d4c18-a5ff-479b-927c-00dfb618aa9c.jpg",
+    "imageUrl": "http://192.168.1.5:3050/uploads/516d4c18-a5ff-479b-927c-00dfb618aa9c.jpg",
+    "createdAt": "2025-03-31T12:41:00.005Z"
+  }
+]
